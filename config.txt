@@ -1,0 +1,2 @@
+car=com.fastcampus.ch3.dicoppy3.Truck
+engine=com.fastcampus.ch3.dicoppy3.Engine
